@@ -1,9 +1,9 @@
 ## Aperçu
 
 <p align="center">
-    <img src="images/img1.png" alt="Aperçu du jeu">
-    <img src="images/img2.png" alt="Partie en cours">
-    <img src="images/img3.png" alt="Victoire">
+    <img src="images/image1.png" alt="Aperçu du jeu">
+    <img src="images/image2.png" alt="Partie en cours">
+    <img src="images/image3.png" alt="Victoire">
 </p>
 
 
