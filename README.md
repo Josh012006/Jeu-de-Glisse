@@ -10,7 +10,7 @@
 ## Description.
 
 Il s'agit de l'implémentation du jeu de glisse dans l'environnement **codeBoot**. Ce code est écrit en Python.
-Il a été écrit dans le cadre d'un travail pratiqe du cours **IFT 1015: Introduction à la Programmation**.
+Il a été écrit dans le cadre d'un travail pratique du cours **IFT 1015: Introduction à la Programmation**.
 
 
 
