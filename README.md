@@ -1,7 +1,6 @@
 ## Aperçu
-<img src="images/img1.png" alt="Aperçu du jeu">
-<img src="images/img2.png" alt="Partie en cours">
-<img src="images/img3.png" alt="Victoire">
+
+![Image1](images/img1.png "Aperçu du jeu") ![Image2](images/img2.png "Partie en cours") ![Image3](images/img3.png "Victoire")
 
 
 ## Description.
